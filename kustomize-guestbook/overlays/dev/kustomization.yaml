@@ -7,7 +7,7 @@ namePrefix: kustomize
 
 commonLabels:
   environment: dev
-  app: guestbook
+  app: guestbook-kustomize-dev
 
 bases:
   - ../../base
